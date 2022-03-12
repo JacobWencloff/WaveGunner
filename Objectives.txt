@@ -1,0 +1,27 @@
+OBJECTIVES AND TASKS FOR WAVEGUNNER
+
+ANIMATION:
+    All mobs and the player will have sprite animations
+    projectiles will be animated using js and css accordingly 
+
+PLAYER:
+    The player needs health and armour
+    Ability to select a weapon from a list 
+    navigation (WASD)
+    player aims at cursor location
+    object colision 
+    projectil colision 
+
+MOBS:
+    Mob variety changes as waves progress
+    Mob damage and health increase as rounds progress
+    Mob spawn rate increase as rounds progress
+    Automated targeting systems to agro player
+    object and projectile colision 
+
+GAME RULES:
+    When the player dies the game is over
+    Score is given for waves survived and number of enemies killed
+    Highscore board
+    main menu 
+    
